@@ -1,0 +1,266 @@
+{
+  "main": {
+    "id": "c5e86a494e3d3025",
+    "type": "split",
+    "children": [
+      {
+        "id": "05715634bccfe19f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149d6c59252ef4c7",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "• Accueil.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ec72a64f517c3d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Listes d'éléments \"Markdown\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aca451a1983639e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c0ea7dcb07da9e",
+        "type": "tabs",
+        "dimension": 61.777777777777786,
+        "children": [
+          {
+            "id": "f7f740ccc2f0edd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7afc16507dfb97f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#index/embodiment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b67225f8ad023e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "74ced3f4515ec77b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab58cd6fabddf1e1",
+        "type": "tabs",
+        "dimension": 38.22222222222222,
+        "children": [
+          {
+            "id": "f5c8aed35dfca208",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "• Accueil.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cf2d72d850a8a2c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "• Accueil.md"
+              }
+            }
+          },
+          {
+            "id": "df2185b7caa2ad73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "• Accueil.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fdcaf7055db28a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "• Accueil.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "453038b2667da185",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "fc4eb3143291f610",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cddcdf5542d9ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0644a5b49d211ead",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "149d6c59252ef4c7",
+  "lastOpenFiles": [
+    "Listes d'éléments \"Markdown\".md",
+    "• Accueil.md",
+    "400 Construction de savoir/430. Savoirs connectés/La systémique.md",
+    "400 Construction de savoir/430. Savoirs connectés/Curiosité.md",
+    "400 Construction de savoir/430. Savoirs connectés/Développement logiciel.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Personal Knowledge Management (concept).md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Complexité (définition).md",
+    "400 Construction de savoir/430. Savoirs connectés",
+    "400 Construction de savoir/420. Savoirs Affirmé/Environnement influant un système.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Système (définition).md",
+    "400 Construction de savoir/• Savoirs nébuleux/Système en interaction avec son environnement.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Scout Mindset (concept).md",
+    "400 Construction de savoir/Savoirs Affirmé/500 • Impredactibility of a complex system.md",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Note d'exploration.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
+    "400 Construction de savoir/410. Savoirs nébuleux/Entropie logicielle?.md",
+    "• Pocket Space •/Templates/Template • 300 • Note de cours.md",
+    "300 Prise de notes/300 Prise de notes.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Feedback (définition).md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Dette technique (concept).md",
+    "400 Construction de savoir/420. Savoirs Affirmé/La mentalité d'explorateur.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Questions boussoles.md",
+    "400 Construction de savoir/Savoirs Affirmé/500 • Complexity (dfn).md",
+    "400 Construction de savoir/420. Savoirs Affirmé/L'art des questions.md",
+    "• Pocket Space •/Attachements/Spinoza.jpg",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Squelette de l'article.canvas",
+    "400 Construction de savoir/420. Savoirs Affirmé/Note atomique (concept).md",
+    "• Pocket Space •/Templates/Template • 400 • Note atomique.md",
+    "400 Construction de savoir/420. Savoirs Affirmé/Leviers contre la procrastination (méthode).md",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire",
+    "200 Activités/220. Projets scolaires",
+    "300 Prise de notes/310. Cours/MT5/Méthodologie de Veille",
+    "300 Prise de notes/310. Cours/MT5",
+    "300 Prise de notes/310. Cours",
+    "400 Construction de savoir/420. Savoirs Affirmé",
+    "400 Construction de savoir/410. Savoirs nébuleux",
+    "100 Social/110. Personnes",
+    "100 Social/120. Organisations",
+    "• Pocket Space •/Attachements/planetarium.jpeg"
+  ]
+}
